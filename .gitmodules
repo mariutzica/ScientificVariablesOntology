@@ -1,0 +1,9 @@
+[submodule "Scientific-Variables-Ontology-v1"]
+	path = Scientific-Variables-Ontology-v1
+	url = https://github.com/mariutzica/Scientific-Variables-Ontology-v1
+[submodule "SVO-1.0.0-wn-categorization-module"]
+	path = SVO-1.0.0-wn-categorization-module
+	url = https://github.com/mariutzica/SVO-1.0.0-wn-categorization-module
+[submodule "Term-Match-API-SVO-1.0.0"]
+	path = Term-Match-API-SVO-1.0.0
+	url = https://github.com/mariutzica/Term-Match-API-SVO-1.0.0
