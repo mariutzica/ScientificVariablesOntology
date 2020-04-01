@@ -7,3 +7,6 @@
 [submodule "Term-Match-API-SVO-1.0.0"]
 	path = Term-Match-API-SVO-1.0.0
 	url = https://github.com/mariutzica/Term-Match-API-SVO-1.0.0
+[submodule "SVO-search-and-create-tools"]
+	path = SVO-search-and-create-tools
+	url = https://github.com/mariutzica/SVO-search-and-create-tools
